@@ -1,0 +1,38 @@
+_repo: To-The-Gold-Coast-for-Gold-Vol.-IIA-Personal-Narrative_18506
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Burton, Richard Francis, Sir
+    aliases:
+    - Baker, Frank
+    - Burton, Sir Richard Francis
+    - Burton, R. F. (Richard F.), Sir
+    birthdate: 1821
+    deathdate: 1890
+    gutenberg_agent_id: '898'
+    url: http://www.gutenberg.org/2009/agents/898
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Francis_Burton
+  - agent_name: Cameron, Verney Lovett
+    alias: Cameron, V. L. (Verney Lovett)
+    birthdate: 1844
+    deathdate: 1894
+    gutenberg_agent_id: '8072'
+    url: http://www.gutenberg.org/2009/agents/8072
+description: ''
+gutenberg_issued: '2006-06-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18506'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Gold mines and mining -- Ghana'
+- !lcsh 'Ghana -- Description and travel'
+- !lcc 'DT'
+title: 'To The Gold Coast for Gold: A Personal Narrative. Vol. II'
+url: http://www.gutenberg.org/ebooks/18506
